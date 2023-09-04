@@ -1,5 +1,4 @@
-[![Banner](https://drive.google.com/uc?export=view&id=1hNrWljkSHjW3LfPiEuR2ztI5HR5qrYHL)](https://drive.google.com/file/d/1hNrWljkSHjW3LfPiEuR2ztI5HR5qrYHL/view?usp=sharing)
-
+![Banner](https://drive.google.com/uc?id=11dJfbMtcPzNUlmHfnFTWqHgQYZ_DNAPk)
 <h1 align="center">¡Hola! Soy Jose Antonio 👋</h1>
 <h3 align="center">Desarrollador Java backend en Argentina</h3>
 <img align="right" alt= "Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRkNGQ1MDEwYjZjZmRlMjNkZDMyMzM2MGVjYWE4ZmM1ZDFjYmEyMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
