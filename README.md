@@ -13,6 +13,14 @@ proyectos desafiantes y crecer como desarrollador backend.
 - 💼 Actualmente estoy en búsqueda laboral activa y abierto a nuevas oportunidades. Si tienes alguna oportunidad interesante, ¡no dudes en contactarme!
 - 📫 Pueden contactarme a mi correo personal **jadominguez99@gmail.com**
 
+## Programación Competitiva
+La programación competitiva en plataformas web como Codewars, LeetCode y HackerRank es una práctica que involucra resolver una amplia colección de desafíos divididos por niveles de dificultad. En estos desafíos, los programadores se enfrentan a problemas que abarcan diversas áreas de la programación, como algoritmos, matemáticas y estructuras de datos.
+### Codewars
+Codewars es una plataforma que ayuda a programadores de cualquier nivel a aprender, entrenar y mejorar sus habilidades de escribir codigo resolviendo ejercicios de muchos tipos y niveles de dificultad. La dificultad de los ejercicios se conocen como "katas" estos van de "8 kyu" hasta "1 kyu", "8 kyu" siendo los ejercicios mas sencillos y los "1 kyu" los mas complicados, la dificultad de los ejercicios es determinada por la propia comunidad de codewars.
+<div>
+    <img align="center" alt= "Badge" width="55%" display="line" src="https://drive.google.com/uc?id=18zr8UfISr2Ln77VShoiT3b5hRpL9-Vu2">
+    <img align="center" alt= "Badge" width="55%" display="line" src="https://www.codewars.com/users/Jaracax/badges/large">   
+</div>
 
 ## Conéctate conmigo
 
@@ -46,6 +54,15 @@ challenging projects and grow as a backend developer.
 - 💼 I am currently in active job search and open to new opportunities.
   If you have any interesting opportunities, feel free to contact me!
 - 📫 You can contact me at my personal email **jadominguez99@gmail.com**
+
+## Competitive Programming
+Competitive programming on web platforms such as Codewars, LeetCode, and HackerRank is a practice that involves solving a wide collection of challenges divided by difficulty levels. In these challenges, programmers face problems that span various areas of programming, such as algorithms, mathematics, and data structures.
+### Codewars
+Codewars is a platform that helps programmers of any level learn, train and improve their code writing skills by solving exercises of many types and levels of difficulty. The difficulty of the exercises are known as "katas" these range from "8 kyu" to "1 kyu", "8 kyu" being the simplest exercises and "1 kyu" being the most complicated, the difficulty of the exercises is determined by the codewars community itself.
+<div>
+    <img align="center" alt= "Badge" width="55%" display="line" src="https://drive.google.com/uc?id=18zr8UfISr2Ln77VShoiT3b5hRpL9-Vu2">
+    <img align="center" alt= "Badge" width="55%" display="line" src="https://www.codewars.com/users/Jaracax/badges/large">   
+</div>
 
 ## Connect With Me
 I would love to connect with you and discuss exciting opportunities! You can find me at:
