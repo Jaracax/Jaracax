@@ -24,3 +24,6 @@ Eager to keep expanding my knowledge with different technologies and creating ex
 <div>
     <img align="center" alt= "Badge" width="55%" display="line" src="https://drive.google.com/uc?id=18zr8UfISr2Ln77VShoiT3b5hRpL9-Vu2">
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
