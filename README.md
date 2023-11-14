@@ -22,7 +22,7 @@ Eager to keep expanding my knowledge with different technologies and creating ex
 
 **Codewars Profile**
 <div>
-    <img align="center" alt= "Badge" width="55%" display="line" src="https://drive.google.com/uc?id=18zr8UfISr2Ln77VShoiT3b5hRpL9-Vu2">
+    <img align="center" alt= "Badge" width="55%" display="line" src="https://www.codewars.com/users/Jaracax/badges/large">
 </div>
 
 <!--START_SECTION:waka-->
