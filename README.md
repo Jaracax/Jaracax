@@ -7,7 +7,7 @@
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/Jaracax)
 
 ### About Me
-I'm a Java developer with knowledge in Java, Spring Boot, Spring Security, MySQL and testing using JUnit and Mockito.
+I'm a Java developer with knowledge in Java, Spring Boot/Web/Security, JPA, Hibernate, MySQL, JUnit, Mockito and Kafka.
 
 Eager to keep expanding my knowledge with different technologies and creating exciting projects!
 
@@ -24,6 +24,3 @@ Eager to keep expanding my knowledge with different technologies and creating ex
 <div>
     <img align="center" alt= "Badge" width="55%" display="line" src="https://www.codewars.com/users/Jaracax/badges/large">
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
